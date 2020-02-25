@@ -1,0 +1,22 @@
+.calculator {
+  margin: 55 auto;
+  border-radius: 5px;
+  max-width: 20%;
+}
+
+div {
+  text-align: center;
+}
+
+.header {
+  color: white;
+}
+
+input {
+  text-align: center;
+}
+
+.btn {
+  background: #e6e6e6;
+  border-color: #bfbfbf;
+}
